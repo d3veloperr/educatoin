@@ -1,4 +1,4 @@
-# educatoin
+# education
 education tasks [RU] 
 
 №1 Вывести, сколько памяти (в байтах) на вашем компьютере отводится под различные типы данных со спецификаторами и без: int, short int, long int, float, double, long double, char и bool.
