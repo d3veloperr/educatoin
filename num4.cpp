@@ -4,7 +4,7 @@ using namespace std;
 void printDoubleBits(double num) {
    
     union {
-        double source;        // само число
+        double source;        
         unsigned long long bits;
     } data;
 
