@@ -19,5 +19,9 @@ int main() {
     cout << "Введите позицию бита (0-31): ";
     cin >> position;
     cout << "Введите значение (0 или 1): ";
-    cin;
+    cin >> value; 
+    unsigned int result = changeBit(number, position, value);
+    cout << "Результат: " << result << endl;
+
+    return 0
 }
